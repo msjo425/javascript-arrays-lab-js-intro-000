@@ -23,5 +23,5 @@ function prependKitten(newKitten){
   //var newArray
 //  newArray = [newKitten, ...kittens]
   //return newArray
-newArray = [newKitten, ...kittens]
+return [newKitten, ...kittens]
 }
