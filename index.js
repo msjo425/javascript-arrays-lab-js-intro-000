@@ -20,5 +20,6 @@ function appendKitten(newKitten){
   }
 
 function prependKitten(newKitten){
+  newArray []
   return newKitten.concat(kittens)
 }
