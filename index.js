@@ -22,3 +22,4 @@ function appendKitten(newKitten){
 function prependKitten(newKitten){
   return [newKitten, ...kittens]
 }
+function 
