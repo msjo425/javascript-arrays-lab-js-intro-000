@@ -21,4 +21,5 @@ function appendKitten(newKitten){
 
 function prependKitten(newKitten){
   newArray = concat(newKitten, kittens)
+  return newArray
 }
