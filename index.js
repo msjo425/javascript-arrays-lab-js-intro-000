@@ -22,4 +22,6 @@ function appendKitten(newKitten){
 function prependKitten(newKitten){
   return [newKitten, ...kittens]
 }
-function removeLastKitten()
+function removeLastKitten(oldArray){
+  
+}
